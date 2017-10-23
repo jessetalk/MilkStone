@@ -1,0 +1,11 @@
+d:\projects\netcore\MilkStone\MilkStone\bin\Debug\netcoreapp2.0\MilkStone.deps.json
+d:\projects\netcore\MilkStone\MilkStone\bin\Debug\netcoreapp2.0\MilkStone.runtimeconfig.json
+d:\projects\netcore\MilkStone\MilkStone\bin\Debug\netcoreapp2.0\MilkStone.runtimeconfig.dev.json
+d:\projects\netcore\MilkStone\MilkStone\bin\Debug\netcoreapp2.0\MilkStone.dll
+d:\projects\netcore\MilkStone\MilkStone\bin\Debug\netcoreapp2.0\MilkStone.pdb
+d:\projects\netcore\MilkStone\MilkStone\obj\Debug\netcoreapp2.0\MilkStone.csprojResolveAssemblyReference.cache
+d:\projects\netcore\MilkStone\MilkStone\obj\Debug\netcoreapp2.0\MilkStone.csproj.CoreCompileInputs.cache
+d:\projects\netcore\MilkStone\MilkStone\obj\Debug\netcoreapp2.0\MilkStone.AssemblyInfoInputs.cache
+d:\projects\netcore\MilkStone\MilkStone\obj\Debug\netcoreapp2.0\MilkStone.AssemblyInfo.cs
+d:\projects\netcore\MilkStone\MilkStone\obj\Debug\netcoreapp2.0\MilkStone.dll
+d:\projects\netcore\MilkStone\MilkStone\obj\Debug\netcoreapp2.0\MilkStone.pdb
